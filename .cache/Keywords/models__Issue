@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4B926D57301B0A3B9AC09BFC978EFF7E",
+  "keywordClasses": [
+    {
+      "name": "models.Issue",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

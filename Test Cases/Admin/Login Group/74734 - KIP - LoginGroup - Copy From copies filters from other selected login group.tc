@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>74734 - KIP - LoginGroup - Copy From copies filters from other selected login group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ef313b7-bc54-48c1-9f47-61a5d99a98b9</testCaseGuid>
+</TestCaseEntity>

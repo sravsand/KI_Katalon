@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C6DE888DF8F57C81EC0CBC6D17C01474",
+  "keywordClasses": [
+    {
+      "name": "models.ExpenseWithCurrency",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

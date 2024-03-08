@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_DefaultMitigationPlanItemType</name>
+   <tag></tag>
+   <elementGuidId>bcc8a9de-c53f-46bc-9af7-c5b8a32551f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[6]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>formly-tabs-tab > formly-field.ng-star-inserted > formly-checkbox.ng-star-inserted > div.checkbox > label > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4271c8f-a4f5-4b9d-be57-28d9acf9dc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a611a5e2-8f7b-4cd9-b586-87849f0669df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Default Mitigation Plan Item Type </value>
+      <webElementGuid>f86c4b01-b8b5-45ba-bd10-b769871afe19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editpage popup addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>f63e22e7-f712-4edf-9498-a6ef0ec71287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[6]/formly-checkbox/div/label/span</value>
+      <webElementGuid>712182d5-3df9-41af-be12-4d1d325987ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::span[1]</value>
+      <webElementGuid>b100e3d0-feef-43c9-ae85-9d9fad114473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[2]</value>
+      <webElementGuid>d03e1ff3-86b5-41c3-92af-85d1e0417693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::span[1]</value>
+      <webElementGuid>dfed637e-618f-482f-8223-1652ba8cc0aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[2]</value>
+      <webElementGuid>0e05605f-bf7b-40d7-a0a1-9c30f9695437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Default Mitigation Plan Item Type']/parent::*</value>
+      <webElementGuid>3e2edcf9-6a06-480d-87f9-80f3f6def88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[6]/formly-checkbox/div/label/span</value>
+      <webElementGuid>13ffa284-5870-419a-a644-94584442a0e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

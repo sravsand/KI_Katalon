@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>19766 - Error message on any failed validation when saved</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c9afa71-e122-4d04-a0d1-2a1d4d31c2a5</testCaseGuid>
+</TestCaseEntity>

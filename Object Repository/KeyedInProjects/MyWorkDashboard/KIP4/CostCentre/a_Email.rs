@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Email</name>
+   <tag></tag>
+   <elementGuidId>2289b80f-1247-4cd2-ade3-8dfc76beff9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-secondary</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@title = 'Email' and @href = 'mailto:jkabyw@coldmail.com']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[2]/ng-component/div/div/custom-field-email/div/span[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0103f593-ae26-4a4a-9d34-ad651f79b4a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>5c7f42a8-4de2-483e-bd17-dac9ced1407d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>156daa6a-9cfc-4022-bc38-a81602762205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>mailto:jkabyw@coldmail.com</value>
+      <webElementGuid>25460a19-84a3-4d21-98ab-348c2ec405a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[2]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[2]/ng-component[1]/div[@class=&quot;form-group row&quot;]/div[1]/custom-field-email[1]/div[@class=&quot;inputGroup&quot;]/span[2]/a[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>fe07ad98-cb97-4fb2-bdd9-880d5ad375dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field[2]/ng-component/div/div/custom-field-email/div/span[2]/a</value>
+      <webElementGuid>a58d29e9-906a-4312-97d0-ac97f37d899a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[1]</value>
+      <webElementGuid>9f8ad23a-05ca-4aba-8193-c711003d9d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::a[1]</value>
+      <webElementGuid>338f84ad-4750-4072-9220-b760b041eefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dave Lees 18/12/2020 04:12:03 pm'])[1]/preceding::a[1]</value>
+      <webElementGuid>9baba0c7-814d-4e88-8e28-c73d42609972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'mailto:jkabyw@coldmail.com')]</value>
+      <webElementGuid>174e5c9c-1292-4876-af5c-a80be5d8f826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//custom-field-email/div/span[2]/a</value>
+      <webElementGuid>31373231-6da0-4342-ac9b-99bcddc26680</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

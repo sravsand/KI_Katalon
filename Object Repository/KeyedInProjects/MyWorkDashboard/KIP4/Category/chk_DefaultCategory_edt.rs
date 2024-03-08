@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_DefaultCategory_edt</name>
+   <tag></tag>
+   <elementGuidId>986fef49-b0d5-481c-9a0c-59f7d3376602</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs&quot;]/formly-form[1]/formly-field[1]/formly-group[1]/formly-field[@class=&quot;col-sm-12 padding-top-5&quot;]/formly-checkbox[1]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;][count(. | //*[(text() = ' Default Category ' or . = ' Default Category ')]) = count(//*[(text() = ' Default Category ' or . = ' Default Category ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field/formly-group/formly-field[6]/formly-checkbox/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f17ca841-13af-48ec-a2aa-ef4a8ba5ca24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1abfe9e8-e172-4939-9e66-cb8427e09206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Default Category </value>
+      <webElementGuid>bc222e4e-6d55-42ad-bf20-9508942f15e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs&quot;]/formly-form[1]/formly-field[1]/formly-group[1]/formly-field[@class=&quot;col-sm-12 padding-top-5&quot;]/formly-checkbox[1]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>33064686-0061-47e6-bd93-703913f93129</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/div/div/div/div/label/span</value>
+      <webElementGuid>86eb2318-9264-4fea-8fd6-25ef1e0bda60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::span[1]</value>
+      <webElementGuid>f7b29f0d-6a26-4bd3-905c-90c243732439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[2]</value>
+      <webElementGuid>22f87750-bb8b-4af4-b02d-14a6cfa46985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::span[1]</value>
+      <webElementGuid>6dce5bfb-ddf2-4acc-bdf5-e585250efa5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANGULAR 7/1/2020 4:27:57 PM'])[1]/preceding::span[1]</value>
+      <webElementGuid>db4aa033-a396-4fd0-a8fc-6207e13c0e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Default Category']/parent::*</value>
+      <webElementGuid>71bd3697-8534-4b36-8afe-397436d5c0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/label/span</value>
+      <webElementGuid>c86ea901-45f7-47ae-be4d-71533eb9ceaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

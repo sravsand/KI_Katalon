@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>addExpensesButton</name>
+   <tag></tag>
+   <elementGuidId>ba7696d6-526f-46a0-be10-d61c330e8167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='widget-group-Expenses']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;widget-group-Expenses&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;databox margin-bottom-5&quot;]/div[@class=&quot;databox-left bg-white bordered bordered-gray&quot;]/div[@class=&quot;btn btn-sm btn-palegreen btn-new-panel&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c2880ae2-12d1-4eee-a6e4-a2bb1f14401d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-palegreen btn-new-panel</value>
+      <webElementGuid>1c70e08e-57e2-41e3-b4e5-f66ddeea663b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/Projects/Dashboard/NewPanel/AUTOVIEW-108?widgetId=947b023e-110a-4181-b1e7-3fa897e63b71</value>
+      <webElementGuid>f662ed2e-f886-4920-9f7a-60860e296ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>1d7f2729-636d-4947-ac3a-48e1d18e8fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widget-group-Expenses&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;databox margin-bottom-5&quot;]/div[@class=&quot;databox-left bg-white bordered bordered-gray&quot;]/div[@class=&quot;btn btn-sm btn-palegreen btn-new-panel&quot;]</value>
+      <webElementGuid>116e5ace-0f41-447a-99d5-2f97f8e06f10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='widget-group-Expenses']/div/div/div/div</value>
+      <webElementGuid>5cd387b0-c0f1-46eb-8459-f4994d858cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses'])[2]/following::div[5]</value>
+      <webElementGuid>921bcdc4-6748-4d14-af44-2bd1aff5cbb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Displays a filterable list of Deliverables'])[1]/following::div[7]</value>
+      <webElementGuid>0a64597b-e4fc-494f-9962-1c04fd24fded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses'])[3]/preceding::div[1]</value>
+      <webElementGuid>b896441d-c4fa-4b1a-bbd2-84ff0b4adc09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Displays a filterable list of Expenses'])[1]/preceding::div[1]</value>
+      <webElementGuid>4ff54078-4a18-4143-b2b1-0460dbadf771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div</value>
+      <webElementGuid>41d74d1c-fbb6-44a3-bfee-e1e49bd7f9a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

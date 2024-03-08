@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "ED888444E8AB9E5BDB7EE8587507CD90",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateRole",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

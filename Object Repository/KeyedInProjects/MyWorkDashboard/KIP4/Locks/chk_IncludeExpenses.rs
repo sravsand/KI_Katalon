@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_IncludeExpenses</name>
+   <tag></tag>
+   <elementGuidId>9a29dfd5-2e92-4975-9005-0fe19ae759ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field[7]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox.margin-bottom-15.margin-left-10 > label > span.text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;form-group ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox col-sm-12 margin-left-5 margin-top-20&quot;]/label[1]/span[@class=&quot;text&quot;][count(. | //*[(text() = ' Include Expenses ' or . = ' Include Expenses ')]) = count(//*[(text() = ' Include Expenses ' or . = ' Include Expenses ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c923776f-1cab-4c53-8948-60245d6d48c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8f3c7d4e-d60b-4245-a716-c9ed418717f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Include Expenses </value>
+      <webElementGuid>0d20d755-94f2-42f4-8ac2-bf0f43c43abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;form-group ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox col-sm-12 margin-left-5 margin-top-20&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>7f5fa38d-6cfb-4464-9745-fc5f096756b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field[7]/formly-checkbox/div/label/span</value>
+      <webElementGuid>378aa2a0-55ad-431b-a803-489c5d4a9243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Filter'])[1]/following::span[1]</value>
+      <webElementGuid>7390f975-c0cf-4cb1-832a-3850c5cc69be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Filter Type'])[1]/following::span[1]</value>
+      <webElementGuid>1c0f9e4b-715a-4b65-b80f-8eea61b1e33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[1]</value>
+      <webElementGuid>03814bf9-8529-4018-9f70-4784e33a32cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Include Expenses']/parent::*</value>
+      <webElementGuid>5867df0e-7b1a-424b-bcf0-b97623320210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[7]/formly-checkbox/div/label/span</value>
+      <webElementGuid>78435f24-3729-43e5-b7e1-80a797d67557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Include Expenses ' or . = ' Include Expenses ')]</value>
+      <webElementGuid>37a767ad-7e8b-4387-971b-e5b61b9ff4ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

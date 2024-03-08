@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WidgetName</name>
+   <tag></tag>
+   <elementGuidId>5962805f-6654-4c88-b127-a676b0a22579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='This widget has not been configured yet'])[1]/preceding::div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'widget-caption' and (contains(text(), '${widget}') or contains(., '${widget}'))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06bc0919-1282-44f0-83e8-b2ec96df0a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-caption</value>
+      <webElementGuid>320b0bac-5caa-40c1-a2b8-9265f24ce191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${widget}</value>
+      <webElementGuid>81f665d6-06bc-4479-911d-4ff282e1efe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main-container container-fluid&quot;]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;page-partial&quot;]/div[@class=&quot;FullPage&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;dashboard-container edit&quot;]/div[@class=&quot;row dashboard-row&quot;]/div[@class=&quot;dashboard-col col-md-12 ui-sortable&quot;]/div[@class=&quot;dashboard-panel col-md-12 col-sm-12 can-configure&quot;]/div[@class=&quot;panel-content  edit&quot;]/div[@class=&quot;widget&quot;]/div[@class=&quot;widget-header bordered-bottom bordered-themeprimary&quot;]</value>
+      <webElementGuid>bf914599-f428-48d1-9d0f-dcc1d0ae4e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This widget has not been configured yet'])[1]/preceding::div[3]</value>
+      <webElementGuid>31716235-1c40-4872-a3e4-9f9c98104b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>777e4801-e434-4a72-b3b6-23914384b732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

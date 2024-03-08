@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0C04D6283450E3618313A121963E737D",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateNotes",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab_ResProject</name>
+   <tag></tag>
+   <elementGuidId>80275cec-29c9-45c1-8021-e7e4ab37cb47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Project' or . = 'Project')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field/formly-field-tabset/formly-tabs-tabset/ul/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2df11c9-d9fc-4582-a206-fe3976112317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>dbb2c31f-059c-460f-92b8-1e41d42f729d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project</value>
+      <webElementGuid>469cdad3-2a7c-4b73-af1f-26aee3c5f551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editpage popup addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/ul[@class=&quot;nav nav-tabs&quot;]/li[@class=&quot;nav-item ng-star-inserted&quot;]/div[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>8e8f3301-a146-4e42-ac42-8ce5fbc46017</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field/formly-field-tabset/formly-tabs-tabset/ul/li[2]/div</value>
+      <webElementGuid>262bc5d1-0ad0-4ec2-8894-0f4283bdd5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resource'])[2]/following::div[1]</value>
+      <webElementGuid>bd67324d-8d35-47f7-ab4f-7f0d50d93f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Activity Custom Fields'])[1]/following::div[3]</value>
+      <webElementGuid>30116c10-f2d5-424f-8e2b-19dfbb086bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This Activity is available to all Resources'])[1]/preceding::div[1]</value>
+      <webElementGuid>92f6911a-f862-44df-88ef-c3ae29104276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/preceding::div[3]</value>
+      <webElementGuid>d0b2d7cc-a084-4906-93d1-39af594369a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-tabs-tab/formly-field/formly-field-tabset/formly-tabs-tabset/ul/li[2]/div</value>
+      <webElementGuid>1ba87d08-d172-481d-9701-21ed60909ff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

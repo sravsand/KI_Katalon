@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "48794EFD8DE62C0707207AEBF6DC363B",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateIssueAction",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

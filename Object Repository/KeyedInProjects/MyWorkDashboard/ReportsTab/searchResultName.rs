@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchResultName</name>
+   <tag></tag>
+   <elementGuidId>beafd307-fbaa-4cdb-bc70-ed24c07928e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='8062f4cf-83ce-48d3-b96c-5047313b7357']/div[5]/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='8062f4cf-83ce-48d3-b96c-5047313b7357']/div[5]/table/tbody/tr/td[3]</value>
+   </webElementProperties>
+</WebElementEntity>

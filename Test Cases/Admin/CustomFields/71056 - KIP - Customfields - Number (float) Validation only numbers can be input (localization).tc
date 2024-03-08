@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71056 - KIP - Customfields - Number (float) Validation only numbers can be input (localization)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06ee148b-7759-4d46-b0a5-09aee9b8f750</testCaseGuid>
+</TestCaseEntity>

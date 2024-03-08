@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B393AECEB8C4AE4FF2CC02D00430F3DE",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateClaim",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

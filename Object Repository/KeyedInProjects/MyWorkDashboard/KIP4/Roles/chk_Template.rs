@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_Template</name>
+   <tag></tag>
+   <elementGuidId>13931005-a627-4bc2-9d27-c13395c0ff4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>formly-field.col-sm-3.ng-star-inserted > formly-checkbox.ng-star-inserted > div.checkbox > label > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[4]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b05439fe-7d2f-4072-8e0b-93534aa46f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>31c8ea21-8d81-475b-aea3-d1bc51d2887d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Template </value>
+      <webElementGuid>d4126698-27f2-4c35-b008-72ad111a5fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-group[@class=&quot;form-group row ng-star-inserted&quot;]/formly-field[@class=&quot;col-sm-3 ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>f42b2304-2293-4a9d-842f-ac00a3d8aca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[4]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>4aa74aad-a984-4b1c-9673-d45ac62292cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[3]/following::span[1]</value>
+      <webElementGuid>fb5600ed-d8f6-4ef9-b060-fb839ad96de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[2]</value>
+      <webElementGuid>972ae7ad-57fa-4023-9fef-25ee73b5dd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Department'])[3]/preceding::span[1]</value>
+      <webElementGuid>98fa0f71-602d-4899-8869-3e3b8eba6cd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[3]/preceding::span[3]</value>
+      <webElementGuid>5c64d0b8-13bf-409a-9f74-bc9006345eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>701b854a-ee71-4d18-ad54-0d285c45d1eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

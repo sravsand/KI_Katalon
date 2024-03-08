@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_CostNonChargeable</name>
+   <tag></tag>
+   <elementGuidId>d3543d2f-68b8-464a-8eec-2c3a767ea0f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'ng-star-inserted' and (text() = ' Non Chargeable ' or . = ' Non Chargeable ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9327d33-a815-4c24-9014-3133c904ba71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>5f34f67d-1d46-49b1-a65c-9cdb6430aab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Non Chargeable </value>
+      <webElementGuid>8e7abfb3-2560-4dd8-85ec-886d92166987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-group[@class=&quot;form-group ng-star-inserted&quot;]/formly-field[@class=&quot;col-sm-3 padding-left-15 ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>f9fca8e5-3d72-4bcd-8506-287852346363</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>0306c020-d044-45f0-be74-5d16fafc7a6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Invoiced'])[1]/following::span[1]</value>
+      <webElementGuid>1c38c41e-cf06-4da4-b7a9-20294162b1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disapproved'])[1]/following::span[2]</value>
+      <webElementGuid>66d9aedf-e559-4ddf-bda1-363d62cf0395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Claimed'])[1]/preceding::span[1]</value>
+      <webElementGuid>cef26589-8978-4364-8438-c9439a34be3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unapproved'])[1]/preceding::span[2]</value>
+      <webElementGuid>3c5f3fdf-ccef-4f8c-8938-86161e3dff8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Non Chargeable']/parent::*</value>
+      <webElementGuid>48b10352-7362-4a97-9305-d13ef4cd2209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[7]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>9f99c64c-04c5-4c2c-b64f-5e0c340f9652</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

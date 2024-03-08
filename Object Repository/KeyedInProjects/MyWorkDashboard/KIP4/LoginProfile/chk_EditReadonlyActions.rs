@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_EditReadonlyActions</name>
+   <tag></tag>
+   <elementGuidId>20d8dc90-996c-46ee-aa8d-a00bbef8a456</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-5']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[2]/formly-group/formly-field/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'text' and (text() = ' Edit Readonly Actions ' or . = ' Edit Readonly Actions ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58325acc-dbc8-446d-af79-364bafc1840c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>cb1f712f-9de7-4408-af00-bd84889be2be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit Readonly Actions </value>
+      <webElementGuid>ffa2b87a-49ab-4167-832a-d90f5b53fa93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[6]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[7]/formly-group[@class=&quot;form-group row&quot;]/formly-field[2]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[1]/formly-checkbox[1]/div[@class=&quot;checkbox margin-left-10&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>13e21b40-8451-4217-84a9-824c9dc72e94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[6]/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[2]/formly-group/formly-field/formly-checkbox/div/label/span</value>
+      <webElementGuid>f5d22a1a-a623-4f46-a9de-07eb61be3cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Locks'])[1]/following::span[1]</value>
+      <webElementGuid>7e58467d-f6d7-4665-9cb2-6c00f008da7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Timesheet and Expense View Permissions'])[1]/following::span[2]</value>
+      <webElementGuid>9972090a-b70f-4bd7-b462-06650a81f46e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restore finished Processes'])[1]/preceding::span[1]</value>
+      <webElementGuid>1712c8b6-f6c6-4d55-96fc-dde52cd668a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Readonly Actions']/parent::*</value>
+      <webElementGuid>51edd3f6-4cdf-4baf-9b42-3a9d4c9b4c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[2]/formly-group/formly-field/formly-checkbox/div/label/span</value>
+      <webElementGuid>2c734655-11b5-468c-9607-b2326e82939a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

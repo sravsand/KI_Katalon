@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71104 - KIP - Customfields - Existing Values Set to default value of CustomField on add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84741620-37a5-4e84-8926-d3fedadb4d25</testCaseGuid>
+</TestCaseEntity>

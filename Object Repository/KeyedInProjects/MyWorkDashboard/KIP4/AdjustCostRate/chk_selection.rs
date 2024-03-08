@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_selection</name>
+   <tag></tag>
+   <elementGuidId>755d8e75-4781-477d-b62c-4fb0e798ac49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchresultstable > div.visible > datatable-header.datatable-header.ng-star-inserted > div.datatable-header-inner > div.datatable-row-center.ng-star-inserted > datatable-header-cell.datatable-header-cell.resizeable.ng-star-inserted > div.datatable-header-cell-template-wrap > label.datatable-checkbox.ng-star-inserted > input[type=&quot;checkbox&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='checkbox'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchresultstable&quot;)/div[@class=&quot;visible&quot;]/datatable-header[@class=&quot;datatable-header ng-star-inserted&quot;]/div[@class=&quot;datatable-header-inner&quot;]/div[@class=&quot;datatable-row-center ng-star-inserted&quot;]/datatable-header-cell[@class=&quot;datatable-header-cell resizeable ng-star-inserted&quot;]/div[@class=&quot;datatable-header-cell-template-wrap&quot;]/label[@class=&quot;datatable-checkbox ng-star-inserted&quot;]/input[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-datatable[@id='searchresultstable']/div/datatable-header/div/div[2]/datatable-header-cell[3]/div/label/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ngx-datatable/div/datatable-header/div/div[2]/datatable-header-cell[3]/div/label/input</value>
+   </webElementXpaths>
+</WebElementEntity>

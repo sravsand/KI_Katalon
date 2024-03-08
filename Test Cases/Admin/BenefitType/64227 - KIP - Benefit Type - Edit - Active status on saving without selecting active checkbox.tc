@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64227 - KIP - Benefit Type - Edit - Active status on saving without selecting active checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>641b3b79-7a90-4b57-900b-348e4c230a28</testCaseGuid>
+</TestCaseEntity>

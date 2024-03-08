@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Plan Version Name field is hyperlinked which when clicked will display the selected plan version on the Gantt</description>
+   <name>25204 - Manage Versions - click hyperlink</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>989d9de5-d155-434a-9283-7de6db099b38</testCaseGuid>
+</TestCaseEntity>

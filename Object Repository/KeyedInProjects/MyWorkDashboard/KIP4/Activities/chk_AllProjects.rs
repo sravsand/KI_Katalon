@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_AllProjects</name>
+   <tag></tag>
+   <elementGuidId>59666ad8-e692-4f88-be3b-30dea7009530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-2-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>40f60ff5-1db8-4c95-a78a-e650eef1b5cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9cacf17c-fe2f-4a22-9016-360f7d11d6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> This Activity is available to all Projects </value>
+      <webElementGuid>05901c6b-f464-4f0f-b443-ab220afa0f98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editpage popup addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>fcef1aa4-0bc0-4d9a-94a8-50ee8c9adfa7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field/formly-checkbox/div/label/span</value>
+      <webElementGuid>7a16d2c9-dc88-470e-96d4-4505d894f5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[2]/following::span[1]</value>
+      <webElementGuid>278ec9b5-5f4b-4794-ad57-1b9771b2c261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resource'])[2]/following::span[1]</value>
+      <webElementGuid>6f64499a-7716-4c92-aa5b-3a0c2554b41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/preceding::span[1]</value>
+      <webElementGuid>409dd5fe-2cbd-4f37-9cc9-3358cb25c046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/preceding::span[5]</value>
+      <webElementGuid>87cb4a38-611a-47b5-97f4-c78501ef127e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This Activity is available to all Projects']/parent::*</value>
+      <webElementGuid>aa08ccf5-e2a5-4285-85d9-111b493155b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>ebebfa9d-6c1d-42ab-849a-eba821135634</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

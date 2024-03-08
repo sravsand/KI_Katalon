@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3C69ACE01F292EF1FCB2A24786FBC1CF",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateCost",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

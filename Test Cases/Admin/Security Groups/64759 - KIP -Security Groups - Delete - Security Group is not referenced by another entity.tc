@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64759 - KIP -Security Groups - Delete - Security Group is not referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>173c5b0f-ee1b-49ea-9201-abd3fcd0f6db</testCaseGuid>
+</TestCaseEntity>

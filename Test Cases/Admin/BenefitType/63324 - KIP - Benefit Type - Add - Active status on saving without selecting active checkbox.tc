@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>63324 - KIP - Benefit Type - Add - Active status on saving without selecting active checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4bffaa5-0065-4f30-8233-ec31c1f5ed12</testCaseGuid>
+</TestCaseEntity>

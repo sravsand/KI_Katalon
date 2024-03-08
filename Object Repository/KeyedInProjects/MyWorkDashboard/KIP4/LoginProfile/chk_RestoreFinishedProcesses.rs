@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_RestoreFinishedProcesses</name>
+   <tag></tag>
+   <elementGuidId>fa99f07f-95e4-4d07-9d44-ad0898cfd969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-5']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[2]/formly-group/formly-field[2]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'text' and (text() = ' Restore finished Processes ' or . = ' Restore finished Processes ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fbff44c2-1368-40dd-ab8b-2f0317666498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>439eaf0a-7fdb-423d-af2d-1798c22e116b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Restore finished Processes </value>
+      <webElementGuid>d83ab627-4016-43bd-a062-350759ca342d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;editscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[6]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[7]/formly-group[@class=&quot;form-group row&quot;]/formly-field[2]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[2]/formly-checkbox[1]/div[@class=&quot;checkbox margin-left-10&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>c186c9d6-89cc-4cf9-9d51-57540fcf064a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[6]/formly-field-tab/formly-tabs-tab/formly-field[7]/formly-group/formly-field[2]/formly-group/formly-field[2]/formly-checkbox/div/label/span</value>
+      <webElementGuid>58ed1508-1c1c-4e95-acdc-6ba363c325fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Readonly Actions'])[1]/following::span[1]</value>
+      <webElementGuid>9d9356cb-79ed-42df-9da3-8bcf17752db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Locks'])[1]/following::span[2]</value>
+      <webElementGuid>164a105a-6855-4709-931b-76340bcffd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::span[1]</value>
+      <webElementGuid>2d994f37-cb64-426c-b481-75b0801ffb74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Restore finished Processes']/parent::*</value>
+      <webElementGuid>88641b22-f4e5-4815-87fe-049f0e9a2dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[2]/formly-checkbox/div/label/span</value>
+      <webElementGuid>a8372e7d-0e99-4d0e-8fdc-40767728d905</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

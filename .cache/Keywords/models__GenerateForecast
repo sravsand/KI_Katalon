@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C83BBF253AB6E3BE2EF50EA631889039",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateForecast",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>errCodeField</name>
+   <tag></tag>
+   <elementGuidId>4639ca94-7837-4084-87c8-bc6270c4c1d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[4]/formly-group/formly-field/ng-component/div/div/formly-field-text/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>formly-validation-message</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'This field is required' or . = 'This field is required') and @class = 'invalid-feedback d-block ng-star-inserted']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>formly-validation-message</value>
+      <webElementGuid>b4d44cd5-cadd-4b5d-a2f1-8da51c578d30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This field is required</value>
+      <webElementGuid>e17b0ecd-7e4b-42f8-a28b-afd5c7c1339c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-group[@class=&quot;form-group row ng-star-inserted&quot;]/formly-field[@class=&quot;col-sm-4 ng-star-inserted&quot;]/ng-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group row&quot;]/div[1]/formly-field-text[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;inputGroup&quot;]/div[@class=&quot;invalid-feedback d-block ng-star-inserted&quot;]/formly-validation-message[1]</value>
+      <webElementGuid>063c479d-cf95-4d34-bb37-c6a406d73003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback d-block ng-star-inserted</value>
+      <webElementGuid>c9ccdbee-22a8-4218-9bb0-54887a57415c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[4]/formly-group/formly-field/ng-component/div/div/formly-field-text/div/div/formly-validation-message</value>
+      <webElementGuid>b22b953e-ebfa-4500-897c-978f3677db96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::formly-validation-message[1]</value>
+      <webElementGuid>cb37ddfd-ed89-4042-a462-35da518fbfaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/preceding::formly-validation-message[1]</value>
+      <webElementGuid>fc22a351-984a-48fb-83d3-64f09f72f4fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This field is required']/parent::*</value>
+      <webElementGuid>f2a210b8-5fa1-469a-9ff8-473be918350f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-validation-message</value>
+      <webElementGuid>f29d8c02-e7c5-4dfd-aac4-421ea7859cfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

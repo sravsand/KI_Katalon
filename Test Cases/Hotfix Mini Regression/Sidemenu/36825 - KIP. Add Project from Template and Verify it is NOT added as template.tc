@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>36825 - KIP. Add Project from Template and Verify it is NOT added as template</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36dcd779-d4bd-449f-b6be-077b638d517c</testCaseGuid>
+</TestCaseEntity>

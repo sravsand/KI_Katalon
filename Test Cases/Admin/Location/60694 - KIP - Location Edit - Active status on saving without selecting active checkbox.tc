@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>60694 - KIP - Location Edit - Active status on saving without selecting active checkbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8d95a4d-992e-41e9-a66b-ffa557debf37</testCaseGuid>
+</TestCaseEntity>

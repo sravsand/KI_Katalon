@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64719 - KIP - Activities - Delete - activity is not referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59ec9d2b-8140-416b-86ba-935a71ee5b7b</testCaseGuid>
+</TestCaseEntity>

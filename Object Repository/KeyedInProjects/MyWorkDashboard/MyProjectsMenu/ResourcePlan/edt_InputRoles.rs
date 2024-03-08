@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>edt_InputRoles</name>
+   <tag></tag>
+   <elementGuidId>79cece5b-9d2e-43d0-b591-04f3e3ebdae7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_Roles']/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#s2id_Roles > ul.select2-choices</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>1301aba2-8332-423b-8985-8f58d2b02508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-choices</value>
+      <webElementGuid>c237e612-69c9-4eb0-a3aa-15dfa5648fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>      Project Manager              </value>
+      <webElementGuid>a6e05e2f-e68b-4716-9ed5-3cd7f536738b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_Roles&quot;)/ul[@class=&quot;select2-choices&quot;]</value>
+      <webElementGuid>6da533d3-25d7-4964-baf3-107708227c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_Roles']/ul</value>
+      <webElementGuid>eee0ec4c-4605-4029-9d6d-ff4944a2ae3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[2]/following::ul[1]</value>
+      <webElementGuid>26a2f9cf-78c2-4b09-b88f-c8014445a396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No matches found'])[3]/following::ul[1]</value>
+      <webElementGuid>1a70c052-9c67-4512-b900-709c12b50239</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No matches found'])[4]/preceding::ul[1]</value>
+      <webElementGuid>ffbfc2c3-436d-4cfc-bf7a-dd4e7423ff64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul</value>
+      <webElementGuid>9be2ceb1-4c93-4612-9140-abc3109a8aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '      Project Manager              ' or . = '      Project Manager              ')]</value>
+      <webElementGuid>e75be37c-3afa-454b-a6fb-7b957702198f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

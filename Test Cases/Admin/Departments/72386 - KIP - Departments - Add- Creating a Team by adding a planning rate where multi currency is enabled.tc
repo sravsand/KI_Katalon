@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>72386 - KIP - Departments - Add- Creating a Team by adding a planning rate where multi currency is enabled</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2207874b-0953-4c43-be5d-aff4bb9ee93f</testCaseGuid>
+</TestCaseEntity>

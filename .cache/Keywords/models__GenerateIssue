@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C5F914CB0F07CA6827F454F996F31E9F",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateIssue",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

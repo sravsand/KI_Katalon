@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "02F97B551DC69B6A4C4101DB9AE97408",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateInvoice",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

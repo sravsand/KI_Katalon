@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "3EC470007161FBA10B345A3935B56ECB",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateContract",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

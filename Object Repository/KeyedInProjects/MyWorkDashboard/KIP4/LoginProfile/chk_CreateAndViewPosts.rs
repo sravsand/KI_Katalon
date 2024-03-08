@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_CreateAndViewPosts</name>
+   <tag></tag>
+   <elementGuidId>815c313d-1cd0-4b76-a851-2c777c261ead</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[9]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f8c21eab-f0ec-445d-973c-b2b25b2b6641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c425df5d-f7eb-4505-b191-9f776a4360fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create and view Posts </value>
+      <webElementGuid>f9e21c76-cdee-4318-b18b-1ea77d5993fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[1]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[8]/formly-group[@class=&quot;form-group row&quot;]/formly-field[1]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[9]/formly-checkbox[1]/div[@class=&quot;checkbox margin-left-15&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>26bf54ff-311d-4b7e-bc39-f20b5093abb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[9]/formly-checkbox/div/label/span</value>
+      <webElementGuid>4e73c752-2184-495a-8f15-f035d2fba1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Data Load'])[1]/following::span[1]</value>
+      <webElementGuid>fa905a44-4688-46fd-9e3f-903cf3ab8934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify User Filters'])[1]/following::span[2]</value>
+      <webElementGuid>1b56b187-edd3-4405-98dc-f3a56a458390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/preceding::span[2]</value>
+      <webElementGuid>30444d57-2a79-436b-b5b4-bfe60c742a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create and view Posts']/parent::*</value>
+      <webElementGuid>13949cde-b7c4-4fdc-a5a0-12f65125ba40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[9]/formly-checkbox/div/label/span</value>
+      <webElementGuid>528087dd-7245-4e70-b71e-a0cee1982a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6D0C513977E6A2FE47FBC83EA17106C1",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateCharge",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "94CA9C2EA5DA68301CFBEA22DB30E1F9",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateProject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5B0401313AD9A3EDDD5D249451DF9FA8",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateNominalCode",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

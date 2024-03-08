@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71042 - KIP - Customfields - EntityPicker Set to default value of CustomField on add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a8a79f1-36e0-45c3-b427-f24d3f54212d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71113 - KIP - Customfields - Clone reset to Default Value if configured in CustomField Config - Short Text</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f96bd667-4905-4c82-a3d2-6720e9f3c44d</testCaseGuid>
+</TestCaseEntity>

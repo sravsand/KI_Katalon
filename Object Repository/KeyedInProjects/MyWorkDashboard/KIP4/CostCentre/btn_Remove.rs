@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Remove</name>
+   <tag></tag>
+   <elementGuidId>4614f857-5d62-4b03-9fe1-00bd5944b0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/custom-field-dynamic-keywords[@class=&quot;ng-tns-c128-1 ng-star-inserted&quot;]/div[@class=&quot;form-group row ng-tns-c128-1&quot;]/div[@class=&quot;ng-tns-c128-1&quot;]/span[@class=&quot;pull-left ng-tns-c128-1&quot;]/a[@class=&quot;btn btn-secondary ng-tns-c128-1&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[2]/custom-field-dynamic-keywords/div/span/span[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>01dd0dca-d129-49ba-8129-796cf8326ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary ng-tns-c128-1</value>
+      <webElementGuid>8cf2bf91-d503-42bc-b881-1f734ea4b56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/custom-field-dynamic-keywords[@class=&quot;ng-tns-c128-1 ng-star-inserted&quot;]/div[@class=&quot;form-group row ng-tns-c128-1&quot;]/div[@class=&quot;ng-tns-c128-1&quot;]/span[@class=&quot;pull-left ng-tns-c128-1&quot;]/a[@class=&quot;btn btn-secondary ng-tns-c128-1&quot;]</value>
+      <webElementGuid>e680e943-cba5-40f3-8800-17fc0836b793</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field[2]/custom-field-dynamic-keywords/div/div/span[3]/a</value>
+      <webElementGuid>4da9575a-994e-4357-b0cb-5f03274f60a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[2]</value>
+      <webElementGuid>fd723b27-6979-4f2b-9025-584ac1edc5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::a[1]</value>
+      <webElementGuid>96633dba-803c-40e4-a2db-46db46a4f5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>9a9a7e31-5f5e-4499-9a5f-8b2e73254135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//custom-field-dynamic-keywords/div/div/span[3]/a</value>
+      <webElementGuid>f40b08c0-b039-435d-8aee-1a2b3b87db9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

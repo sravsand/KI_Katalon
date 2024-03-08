@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64740 - KIP - Deliverable Type - Delete - not referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3730ebe-570e-4bf1-806b-fe3f2d82137c</testCaseGuid>
+</TestCaseEntity>

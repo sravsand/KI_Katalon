@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D35775051F945F84C584350672266BB9",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateLoginProfile",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

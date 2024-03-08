@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "8A7AB601C6D4115F7057983045E5B09D",
+  "keywordClasses": [
+    {
+      "name": "capacity.Populate",
+      "keywordMethods": [
+        {
+          "name": "capacityReportCheckboxArray",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

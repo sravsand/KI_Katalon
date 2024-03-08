@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64746 - KIP - LoginProfiles - Delete - Login Profile is not referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8990be31-7389-424e-b6c6-595aac8b1699</testCaseGuid>
+</TestCaseEntity>

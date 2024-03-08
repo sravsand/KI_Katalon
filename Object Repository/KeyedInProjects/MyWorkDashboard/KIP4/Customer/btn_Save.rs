@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Save</name>
+   <tag></tag>
+   <elementGuidId>b521a1dd-dba0-483c-9165-a42a42fe9c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-footer']/div[2]/input[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-collection&quot;)/div[@class=&quot;kip_ModalSidePopup modal fade right in&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/client-edit[1]/div[@class=&quot;angular-modal&quot;]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@id=&quot;modal-body&quot;]/div[@id=&quot;main-container&quot;]/div[@class=&quot;editscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/contacts-table[@class=&quot;ng-tns-c251-7 ng-star-inserted&quot;]/div[@class=&quot;filter-modal kip_ChildModalSidePopup contact-add ng-tns-c251-7 ng-trigger ng-trigger-slideInOut ng-star-inserted&quot;]/app-add-contact[@class=&quot;ng-tns-c251-7&quot;]/div[@class=&quot;angular-modal ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/app-modal-footer[@class=&quot;ng-star-inserted&quot;]/div[@id=&quot;modal-footer&quot;]/div[@class=&quot;savebuttongroup ng-star-inserted&quot;]/input[@class=&quot;btn btn-primary ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-footer']/div[2]/input[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

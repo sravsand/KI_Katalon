@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7F21660094873466D76D9560AD3621CD",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateLock",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

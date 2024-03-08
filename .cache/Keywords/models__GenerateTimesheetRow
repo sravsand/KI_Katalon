@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "796960DB40FE9F07D401691B90FC743F",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateTimesheetRow",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

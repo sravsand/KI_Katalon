@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8E0700377D900A4F2EA76FA99F62D205",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateClientGroup",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

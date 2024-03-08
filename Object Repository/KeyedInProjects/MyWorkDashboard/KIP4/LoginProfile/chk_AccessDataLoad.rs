@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_AccessDataLoad</name>
+   <tag></tag>
+   <elementGuidId>f726e787-8d52-4a62-8e85-2c9393457853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[8]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d29084c-026c-47a6-bd28-e2becf0161ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b20b1ad4-a78b-4a4d-8557-43b801125ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Access Data Load </value>
+      <webElementGuid>1af6e206-c47e-4199-a9d8-8fff787cfbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[1]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[8]/formly-group[@class=&quot;form-group row&quot;]/formly-field[1]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[8]/formly-checkbox[1]/div[@class=&quot;checkbox margin-left-15&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>55feace9-913d-4051-98ef-95563f5f418b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[8]/formly-checkbox/div/label/span</value>
+      <webElementGuid>004b2ed4-feba-42c9-a8b2-6115592065d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify User Filters'])[1]/following::span[1]</value>
+      <webElementGuid>0e45a130-a6f2-47b3-9deb-26d5ab5d10a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify System Filters'])[1]/following::span[2]</value>
+      <webElementGuid>c867bde1-13fd-4c83-a823-5ec53e594513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create and view Posts'])[1]/preceding::span[1]</value>
+      <webElementGuid>4da4db85-fd8a-4ae2-b13d-77a0e98e5a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/preceding::span[3]</value>
+      <webElementGuid>d7c81908-144c-41ed-bbd1-2b961c07f09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access Data Load']/parent::*</value>
+      <webElementGuid>bd96be87-340c-49d2-884b-6176080096dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[8]/formly-checkbox/div/label/span</value>
+      <webElementGuid>f0ba2cb1-8049-454e-ba54-cf1cf4acfa9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

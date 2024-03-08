@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71090 - KIP - Customfields - Keywords Dropdown Items should be coloured as set in CustomField Config</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>187ee534-1fab-4688-b71b-039cbe10f881</testCaseGuid>
+</TestCaseEntity>

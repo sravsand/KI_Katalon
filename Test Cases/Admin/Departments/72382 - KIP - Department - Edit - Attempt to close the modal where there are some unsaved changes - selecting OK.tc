@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>72382 - KIP - Department - Edit - Attempt to close the modal where there are some unsaved changes - selecting OK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42b3864-b546-407c-b990-83df4f1ca3d2</testCaseGuid>
+</TestCaseEntity>

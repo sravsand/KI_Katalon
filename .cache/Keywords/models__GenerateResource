@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "105F74720E2133BA5B6C11330A058306",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateResource",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>projectTree</name>
+   <tag></tag>
+   <elementGuidId>1421650b-74b3-4092-b8d6-55f8bf217632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;projectsTreeView&quot;)/a[@class=&quot;dropdown-toggle partial hierachy-icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='HierachyIcon']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2ef69999-7223-4bfc-a425-33b62f293a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> fa fa-sitemap</value>
+      <webElementGuid>4bd97425-5c5d-4bfa-a28a-dc5ce6a73113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;projectsTreeView&quot;)/a[@class=&quot;dropdown-toggle partial hierachy-icon&quot;]</value>
+      <webElementGuid>275a8011-d557-4ece-ae03-72de0b265c86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='HierachyIcon']/i</value>
+      <webElementGuid>e2802fdf-bbfb-44cc-a722-aba66ac0c4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Innovation'])[2]/following::i[1]</value>
+      <webElementGuid>780e78b6-64d2-43d4-b87b-a018cbf4e6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Projects'])[4]/following::i[2]</value>
+      <webElementGuid>3c36c8ee-0fab-4556-b8e5-0d3b7b7982fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[1]/preceding::i[4]</value>
+      <webElementGuid>c0e334d9-c72b-4885-bb43-c51e8fef5403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to favourites'])[1]/preceding::i[5]</value>
+      <webElementGuid>606e2c2d-7d96-4ec4-8abc-f5c3f3370743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/div/a/i</value>
+      <webElementGuid>0403f8ef-49b2-4fee-b3af-8dc874a3fc85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66156 - KIP - Exchange Rate - Delete - NOT Oldest entered rate per Currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af1e7c70-c448-470e-91ef-37f9694732d9</testCaseGuid>
+</TestCaseEntity>

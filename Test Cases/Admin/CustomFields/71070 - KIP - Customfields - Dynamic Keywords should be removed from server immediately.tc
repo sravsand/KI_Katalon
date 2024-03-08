@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71070 - KIP - Customfields - Dynamic Keywords should be removed from server immediately</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee9191f4-b214-47dc-b73c-88d6e939f00b</testCaseGuid>
+</TestCaseEntity>

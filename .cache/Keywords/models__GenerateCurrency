@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "68B2CCCD4550FAD0791A056E7E7FAF31",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateCurrency",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

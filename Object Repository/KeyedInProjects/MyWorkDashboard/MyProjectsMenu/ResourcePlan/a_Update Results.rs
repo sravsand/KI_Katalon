@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Update Results</name>
+   <tag></tag>
+   <elementGuidId>bcd6db7b-21ec-4b8c-af3d-ecffffa2f38d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'updateOptions' and @href = 'javascript:void(0);' and (text() = '
+                            Update Results
+                        ' or . = '
+                            Update Results
+                        ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='updateOptions']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eed482f7-61ae-4c1f-a668-09b1b3e61df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>updateOptions</value>
+      <webElementGuid>df0ac088-bbdf-435d-bb5a-195bd88e9aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success shiny</value>
+      <webElementGuid>d1704a48-3ec8-4550-bbfe-9a5c6370d406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>6709168a-7347-4080-9644-463607a27e6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ResourcePlan.UpdateOptions(this);</value>
+      <webElementGuid>98e11bd5-84f3-4c38-b12a-f999790a2b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Update Results
+                        </value>
+      <webElementGuid>0e3eb05b-d5af-4ada-bb63-5947ba00157e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;updateOptions&quot;)</value>
+      <webElementGuid>c963b691-3173-469f-a365-22384ed818bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='updateOptions']</value>
+      <webElementGuid>de7d9c1b-33ac-4ade-9f9b-75a5e5b1cdad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='well']/div[2]/div[10]/a</value>
+      <webElementGuid>542c3234-f914-4dc7-99b5-3ee59d8474e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Update Results')]</value>
+      <webElementGuid>9b8907da-a066-44cc-811a-527d75d894ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group by Project'])[1]/following::a[1]</value>
+      <webElementGuid>be4ba72b-a412-4f35-8d6f-633b90fa2270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='And'])[1]/following::a[1]</value>
+      <webElementGuid>b349acd8-c983-4e36-8f26-dfc8f687280a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Filter Item'])[1]/preceding::a[1]</value>
+      <webElementGuid>6a1ecb35-a300-4eb4-baa7-6e8fca8836fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>a7a74fac-5153-459a-acca-839df33f5a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/a</value>
+      <webElementGuid>a05d24bd-7809-4f25-9894-bdf26c9ae790</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>24250 - Creation of milestone by blanking out start date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfd8f148-cc5d-4658-9329-f18d783c5476</testCaseGuid>
+</TestCaseEntity>

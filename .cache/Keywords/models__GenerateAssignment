@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4A27BB0FA7C81EF0A65DEFDDEAB35928",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateAssignment",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

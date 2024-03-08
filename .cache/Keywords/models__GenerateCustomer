@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "75415874707FB0F16F20001E92B28F1F",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateCustomer",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D0A3D9F1903A3F42BCA2FE37E5FA9025",
+  "keywordClasses": [
+    {
+      "name": "models.TimesheetRow",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

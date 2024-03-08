@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_WorkingTime</name>
+   <tag></tag>
+   <elementGuidId>fdd40d25-c663-4699-b203-922fc643d886</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[12]/formly-ng-select/div/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Working Time *' or . = 'Working Time *')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ng-tns-c174-9.angular-label.control-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a1cae258-3cc0-4f96-ad25-e7b325fea1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c174-9 angular-label control-label ng-star-inserted</value>
+      <webElementGuid>377ddbea-500e-4dd6-b13c-c4f28a523ced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>general.workingTime</value>
+      <webElementGuid>1b247628-fd7c-49a3-ba7d-88e1a567ef2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Working Time *</value>
+      <webElementGuid>8e0b71c7-24ad-45fa-ae90-e6f70f4f12bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-ng-select[@class=&quot;ng-tns-c174-9 ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c174-9&quot;]/div[@class=&quot;ng-tns-c174-9 col-sm-6 padding-left-15 ng-star-inserted&quot;]/label[@class=&quot;ng-tns-c174-9 angular-label control-label ng-star-inserted&quot;]</value>
+      <webElementGuid>c4a964c3-dcc3-497a-b730-27195d88fc64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[12]/formly-ng-select/div/div/label</value>
+      <webElementGuid>6960367b-4657-48c6-9db8-0e1ca3af48a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States of America'])[1]/following::label[1]</value>
+      <webElementGuid>5f81726f-778b-45c1-aa36-abf85bb67efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::label[1]</value>
+      <webElementGuid>4664135d-f6ef-4f32-b2af-8ff35f4662fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Time Calendar (My Region)'])[1]/preceding::label[1]</value>
+      <webElementGuid>3a8d2b31-501f-456e-869b-cbf187260e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[12]/formly-ng-select/div/div/label</value>
+      <webElementGuid>5405cd76-7df9-4925-aad8-7b8491f03fa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

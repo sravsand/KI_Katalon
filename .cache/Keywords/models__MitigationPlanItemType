@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "06EDAC81B8327EF3E00A390018BCEE41",
+  "keywordClasses": [
+    {
+      "name": "models.MitigationPlanItemType",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

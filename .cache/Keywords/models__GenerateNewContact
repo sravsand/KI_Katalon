@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CB02C004892AC801101DDDDBDAF14060",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateNewContact",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

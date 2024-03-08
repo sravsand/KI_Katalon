@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_Login</name>
+   <tag></tag>
+   <elementGuidId>e2dcf31e-48bf-43e5-b34b-fd22291db899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'empty-row ng-star-inserted' and (text() = 'No data to display' or . = 'No data to display')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-datatable[@id='restrictionstable']/div/datatable-body/datatable-selection/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>datatable-body.datatable-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>datatable-body</value>
+      <webElementGuid>baa150de-45ae-4eb6-8416-8ca7baac6ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-row ng-star-inserted</value>
+      <webElementGuid>f856fc65-88d3-4559-9f5d-49cd3fc26b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data to display</value>
+      <webElementGuid>b12e1abd-0800-4b4f-a597-a7b5d9b62ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;restrictionstable&quot;)/div[@class=&quot;visible&quot;]/datatable-body[@class=&quot;datatable-body&quot;]/datatable-selection[1]/div[@class=&quot;empty-row ng-star-inserted&quot;]</value>
+      <webElementGuid>e1a8180b-28a2-485a-9b7c-2b80c91be0c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-datatable[@id='restrictionstable']/div/datatable-body</value>
+      <webElementGuid>cca20992-bbac-4ce2-8dc9-7160f3a40fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[3]/following::datatable-body[1]</value>
+      <webElementGuid>2d934281-d643-4268-b084-e87211250c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/following::datatable-body[1]</value>
+      <webElementGuid>eb54ced9-f10c-422b-bd13-4fde902ced2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::datatable-body[1]</value>
+      <webElementGuid>21dfb123-b580-405d-b6c5-e799eef43045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//datatable-body</value>
+      <webElementGuid>789815c3-b58e-49ca-96d5-a6c050bbdc9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

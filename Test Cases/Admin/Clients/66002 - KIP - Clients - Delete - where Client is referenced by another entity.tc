@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66002 - KIP - Clients - Delete - where Client is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bc423ad-a030-4b71-8c45-70f673d0be33</testCaseGuid>
+</TestCaseEntity>

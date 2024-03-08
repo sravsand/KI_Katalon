@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>62988 - KIP - Category - Delete - Category is used by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f21823ba-11b6-4538-befb-96dd832f37e1</testCaseGuid>
+</TestCaseEntity>

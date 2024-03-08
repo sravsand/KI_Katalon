@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_EditlayoutAndaddwidgets</name>
+   <tag></tag>
+   <elementGuidId>d35f884d-ad18-4352-bad1-a1638140bc10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field[2]/formly-group/formly-field[4]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ee7fb95-0ddf-40c4-af22-08c46fe78169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>acbc6ca3-4bdc-4c7e-b340-1d17d7124abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit layout and add widgets </value>
+      <webElementGuid>e1b94c55-a1c5-4c3a-8435-62fba8822720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[1]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[8]/formly-group[@class=&quot;form-group row&quot;]/formly-field[2]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[4]/formly-checkbox[1]/div[@class=&quot;checkbox col-sm-12 margin-bottom-0&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>60db4416-08d6-48c7-bb82-9764ef0c0f8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field[2]/formly-group/formly-field[4]/formly-checkbox/div/label/span</value>
+      <webElementGuid>e1aa1da6-a5ed-4b67-9588-d5a790ea4b7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Custom Views'])[1]/following::span[1]</value>
+      <webElementGuid>140c5e5c-5f29-46cb-94b2-0881ee1be7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[2]</value>
+      <webElementGuid>77053ecb-893f-44d4-bd6c-7e59936dec63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish Custom Views'])[1]/preceding::span[1]</value>
+      <webElementGuid>1f0b17ea-88db-4d2f-98d7-9f7ba14811b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit layout and add widgets']/parent::*</value>
+      <webElementGuid>25b0347c-30c7-454a-880b-96c661fe7841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[2]/formly-group/formly-field[4]/formly-checkbox/div/label/span</value>
+      <webElementGuid>abb22bdc-62b4-4de8-a6c9-d7f593f21713</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

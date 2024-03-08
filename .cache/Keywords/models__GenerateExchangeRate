@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "779167A93A6E79C3D0EE43345354C7F6",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateExchangeRate",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

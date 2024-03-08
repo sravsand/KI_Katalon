@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71126 - KIP - Customfields - Email Readonly on amend is supported</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a77c636-83e1-4d8e-a069-d9bcb7686751</testCaseGuid>
+</TestCaseEntity>

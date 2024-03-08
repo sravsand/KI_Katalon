@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>19781 - Check in unsaved plan should prompt to save - Option No</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65a17c45-5790-4b1e-96a6-8a251c48cd59</testCaseGuid>
+</TestCaseEntity>

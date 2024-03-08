@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9DA005AF911F4582A8DB296E21EACC8B",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateBillingPriceList",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

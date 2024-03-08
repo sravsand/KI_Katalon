@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66056 - KIP - Costs - Delete - Cost is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f419798-df16-49a1-8af0-237ba86d71f4</testCaseGuid>
+</TestCaseEntity>

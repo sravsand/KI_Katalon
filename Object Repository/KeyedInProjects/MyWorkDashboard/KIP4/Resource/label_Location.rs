@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Location</name>
+   <tag></tag>
+   <elementGuidId>c29594d3-97f3-4b33-911a-a01b66eff734</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[11]/formly-ng-select/div/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for = 'general.location' and (text() = 'Location' or . = 'Location')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ng-tns-c174-8.angular-label.control-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e0d4eb27-4261-46fb-accd-ca14c230fb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c174-8 angular-label control-label ng-star-inserted</value>
+      <webElementGuid>f5eeed94-d4f6-43a0-8bb4-bd04c9346a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>general.location</value>
+      <webElementGuid>a12bc1f9-ea52-4ab5-b5a7-304c4377e610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Location</value>
+      <webElementGuid>87d85642-90f2-4891-928d-a6f60dfd27b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-ng-select[@class=&quot;ng-tns-c174-8 ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c174-8&quot;]/div[@class=&quot;ng-tns-c174-8 col-sm-6 padding-left-15 ng-star-inserted&quot;]/label[@class=&quot;ng-tns-c174-8 angular-label control-label ng-star-inserted&quot;]</value>
+      <webElementGuid>2de187bc-3869-4627-8420-96b6faa03672</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[11]/formly-ng-select/div/div/label</value>
+      <webElementGuid>bf77a07d-ea58-4fb8-8c75-a11e40326ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::label[1]</value>
+      <webElementGuid>e4ab1873-11ef-43ad-9972-0c62de278400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States of America'])[1]/preceding::label[1]</value>
+      <webElementGuid>e4f1506d-4b7e-4855-b603-2bdb8a4d286f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[11]/formly-ng-select/div/div/label</value>
+      <webElementGuid>5f95e1ff-7ca5-407f-a370-faf9ffff834b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

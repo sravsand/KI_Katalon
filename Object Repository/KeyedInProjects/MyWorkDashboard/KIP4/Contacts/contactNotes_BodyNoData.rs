@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contactNotes_BodyNoData</name>
+   <tag></tag>
+   <elementGuidId>16e91a50-6db4-4285-b715-ace36d976530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field/notes-table/div/ngx-datatable/div/datatable-body/datatable-selection/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.empty-row.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'empty-row ng-star-inserted' and (text() = 'No data to display' or . = 'No data to display')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>87e047ad-e849-41da-a69b-2111b5b2bf98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-row ng-star-inserted</value>
+      <webElementGuid>6f10f781-e373-431a-bb5d-0160b191b05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No data to display</value>
+      <webElementGuid>97db526a-cd07-4206-9cd6-435ffbe27f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-1-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c284-5 ng-trigger ng-trigger-translateTab&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/notes-table[@class=&quot;ng-tns-c245-3 ng-star-inserted&quot;]/div[@class=&quot;margin-left-10 margin-right-10 ng-tns-c245-3&quot;]/ngx-datatable[@class=&quot;ngx-datatable bootstrap ng-tns-c245-3 fixed-header fixed-row virtualized scroll-horz selectable checkbox-selection&quot;]/div[@class=&quot;visible&quot;]/datatable-body[@class=&quot;datatable-body&quot;]/datatable-selection[1]/div[@class=&quot;empty-row ng-star-inserted&quot;]</value>
+      <webElementGuid>d0f2ac94-d747-4884-b192-0c14c61afffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-1-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field/notes-table/div/ngx-datatable/div/datatable-body/datatable-selection/div</value>
+      <webElementGuid>1391e81f-5eb0-49f2-8cbe-4c222d684262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::div[4]</value>
+      <webElementGuid>b2ac50ff-0099-408a-9819-73ae1be74b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::div[5]</value>
+      <webElementGuid>0ad091f0-c124-491c-92a2-aa5eb78731db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Note'])[1]/preceding::div[3]</value>
+      <webElementGuid>adfd1515-4802-4695-a28f-1b711a85339d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::div[3]</value>
+      <webElementGuid>0b458ff8-f6da-46fa-8c1c-148a139326de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No data to display']/parent::*</value>
+      <webElementGuid>f1565a49-854c-4be9-94ea-5f7cb595fa0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//datatable-selection/div</value>
+      <webElementGuid>0929f225-f2f7-4606-8556-9fbdde4df781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No data to display' or . = 'No data to display')]</value>
+      <webElementGuid>e27a873b-9cf0-4597-accb-16d6df5a1a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DB6E76CDCAED6685C66C6DE85444105B",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateLoginPG",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

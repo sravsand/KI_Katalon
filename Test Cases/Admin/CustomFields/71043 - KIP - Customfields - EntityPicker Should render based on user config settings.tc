@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71043 - KIP - Customfields - EntityPicker Should render based on user config settings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b52759f5-8cdf-4295-9700-42d284a8bbda</testCaseGuid>
+</TestCaseEntity>

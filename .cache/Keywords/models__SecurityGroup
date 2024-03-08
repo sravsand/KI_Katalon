@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "50DB2B9AFC978E83B1B9E17DB53F1170",
+  "keywordClasses": [
+    {
+      "name": "models.SecurityGroup",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

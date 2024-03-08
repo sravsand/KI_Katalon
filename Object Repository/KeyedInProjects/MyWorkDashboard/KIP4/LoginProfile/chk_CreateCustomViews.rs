@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_CreateCustomViews</name>
+   <tag></tag>
+   <elementGuidId>6bb94686-f8cd-4c95-98bb-e196ca7ba16c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field[2]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox.col-sm-12.margin-bottom-0 > label > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>afdb29bc-d6c7-4dbf-81bf-30d83d066fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>656397ac-4aca-40ac-96cf-eace0be52f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Custom Views </value>
+      <webElementGuid>0cede34a-d841-4c47-a69c-d0cf5dca86f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[1]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[8]/formly-group[@class=&quot;form-group row&quot;]/formly-field[2]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[3]/formly-checkbox[1]/div[@class=&quot;checkbox col-sm-12 margin-bottom-0&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>4fc6d160-43f9-4233-b9f1-022a3d512c6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field[2]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>989b2afc-1060-4a0f-b359-61a903154f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[1]</value>
+      <webElementGuid>f5442cab-e080-495c-87fa-606cb252216b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit layout and add widgets'])[1]/preceding::span[1]</value>
+      <webElementGuid>3943d4a5-eeb4-4730-9e00-ef0b65b9c799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish Custom Views'])[1]/preceding::span[2]</value>
+      <webElementGuid>31a07d1a-a282-4217-8818-37ada762f6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Custom Views']/parent::*</value>
+      <webElementGuid>fabca6f3-a4ce-451f-811c-2f3b90b94fa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[2]/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>da81aa75-83bc-4fe7-bc2f-e28d0c784e96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

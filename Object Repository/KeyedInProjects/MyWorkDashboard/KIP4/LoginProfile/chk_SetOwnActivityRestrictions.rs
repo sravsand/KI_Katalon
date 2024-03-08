@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_SetOwnActivityRestrictions</name>
+   <tag></tag>
+   <elementGuidId>a1fb0535-7090-4a57-9f3a-9f61c06eb145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-0']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dabefbbf-f992-4035-98d3-16bb6d131492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9725f606-9a89-491f-8181-83a598c8ea8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Set Own Activity Restrictions </value>
+      <webElementGuid>de369d34-6485-4504-bb20-8a14ce02c4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[1]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[8]/formly-group[@class=&quot;form-group row&quot;]/formly-field[1]/formly-group[@class=&quot;col-sm-6&quot;]/formly-field[3]/formly-checkbox[1]/div[@class=&quot;checkbox margin-left-15&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>8229513e-11a9-4e17-8783-0e58d05d5d9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[8]/formly-group/formly-field/formly-group/formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>1e4638b3-da5c-4115-9e09-3ca9afa183b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Own Project Restrictions'])[1]/following::span[1]</value>
+      <webElementGuid>cc2658d9-5f7f-4d77-85e4-3e225835a75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set System Defaults'])[1]/following::span[2]</value>
+      <webElementGuid>8c78823f-630e-489e-b90c-e43e9fc0a35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Available To All'])[1]/preceding::span[1]</value>
+      <webElementGuid>7b4efed6-e0ec-4060-a969-83e6b714be9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Code Converter'])[1]/preceding::span[2]</value>
+      <webElementGuid>a86384c1-b510-4c0f-ba8f-50e643900767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set Own Activity Restrictions']/parent::*</value>
+      <webElementGuid>cd9edd5e-7d7c-4d67-80aa-e0ae88954545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[3]/formly-checkbox/div/label/span</value>
+      <webElementGuid>8cb3f7be-91d1-42ff-8d09-b19a309c315e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

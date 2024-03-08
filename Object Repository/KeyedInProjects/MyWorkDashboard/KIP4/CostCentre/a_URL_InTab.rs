@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_URL_InTab</name>
+   <tag></tag>
+   <elementGuidId>df3c771b-d531-45e3-92c2-a852f8ff9349</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-secondary</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[2]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[2]/ng-component[1]/div[@class=&quot;form-group row&quot;]/div[1]/custom-field-url[1]/div[@class=&quot;inputGroup&quot;]/span[@class=&quot;pull-left&quot;]/a[@class=&quot;btn btn-secondary&quot;][count(. | //*[@class = 'btn btn-secondary']) = count(//*[@class = 'btn btn-secondary'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-1-1']/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[2]/ng-component/div/div/custom-field-url/div/span[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>891160aa-897f-479f-aeae-5a58821ddaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d6b57619-95b0-4730-a406-31c10c51ad88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary</value>
+      <webElementGuid>54f7c262-3623-42c8-a054-e81d24eb78b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>ww</value>
+      <webElementGuid>432884cc-c04b-49b7-a78d-888b65af24b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen&quot;]/formly-form[1]/formly-field[1]/formly-field-tabset[1]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[2]/formly-field-tab[1]/formly-tabs-tab[1]/formly-field[2]/ng-component[1]/div[@class=&quot;form-group row&quot;]/div[1]/custom-field-url[1]/div[@class=&quot;inputGroup&quot;]/span[@class=&quot;pull-left&quot;]/a[@class=&quot;btn btn-secondary&quot;]</value>
+      <webElementGuid>a80ecc26-5723-4ed5-b070-a95bd3028b2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field[2]/formly-field-tab/formly-tabs-tab/formly-field[2]/ng-component/div/div/custom-field-url/div/span[2]/a</value>
+      <webElementGuid>81ca9bc6-0670-45bf-bdc1-da65c0d083af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[1]</value>
+      <webElementGuid>9f3f0efd-18ae-48ed-8fda-cf9f11d2a583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::a[1]</value>
+      <webElementGuid>8c8b0a36-4ab4-4592-b21c-cc4b02897448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::a[1]</value>
+      <webElementGuid>d94cf48a-1356-46ec-8230-6242fa5680ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'ww')])[2]</value>
+      <webElementGuid>95fff6ff-a0b2-49d0-98df-49f33d423147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//custom-field-url/div/span[2]/a</value>
+      <webElementGuid>225332de-4e09-489b-afda-6f8283d0d0f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

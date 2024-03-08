@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66132 - KIP - Client Groups - Delete - Client Group is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f56a4324-0178-42d2-b219-996c99ba2a66</testCaseGuid>
+</TestCaseEntity>

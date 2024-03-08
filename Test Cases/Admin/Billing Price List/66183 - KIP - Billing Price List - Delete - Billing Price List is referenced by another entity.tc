@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66183 - KIP - Billing Price List - Delete - Billing Price List is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd06e0b2-fe8d-4717-80f2-a7f59edfbccb</testCaseGuid>
+</TestCaseEntity>

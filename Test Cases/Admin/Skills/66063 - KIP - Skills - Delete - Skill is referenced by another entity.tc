@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66063 - KIP - Skills - Delete - Skill is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62e76424-3ed3-4663-8218-c5c14a9c7314</testCaseGuid>
+</TestCaseEntity>

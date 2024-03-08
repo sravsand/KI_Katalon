@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B404090BDB276B296BCD9CDBE8B2CFC1",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateAddress",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

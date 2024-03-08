@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2AC577096C88AF834A2A775B75DD806B",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateHours",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

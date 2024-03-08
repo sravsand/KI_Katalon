@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BDA90E4828BC7352339B3581C9006292",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateCompany",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

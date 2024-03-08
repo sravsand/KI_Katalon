@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D0761D01D4F358DE73645CCEE22A427D",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateRiskAction",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "15B2273A9FD6424F7E2BC23ACB296139",
+  "keywordClasses": [
+    {
+      "name": "models.LoginPG",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "2F835FFD67012AEEAC8B68BDCCF2929C",
+  "keywordClasses": [
+    {
+      "name": "search.Action",
+      "keywordMethods": [
+        {
+          "name": "searchTableGetColumnValues",
+          "parameters": [
+            {
+              "name": "columnNo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "searchTableGetColumnValues_Alt",
+          "parameters": [
+            {
+              "name": "columnNo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

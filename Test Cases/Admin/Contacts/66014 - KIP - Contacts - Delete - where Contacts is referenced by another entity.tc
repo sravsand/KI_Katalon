@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66014 - KIP - Contacts - Delete - where Contacts is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ccaf64-3fad-4440-abca-dcad921fc7d7</testCaseGuid>
+</TestCaseEntity>

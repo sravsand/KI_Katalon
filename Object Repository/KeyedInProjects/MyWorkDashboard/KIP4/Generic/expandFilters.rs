@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>expandFilters</name>
+   <tag></tag>
+   <elementGuidId>e91405c3-338e-4d43-a86e-009e097559ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;queriesContainer&quot;)/div[@class=&quot;searchSidePanel minimised&quot;]/div[@class=&quot;well minimised&quot;]/div[@class=&quot;header minimised&quot;]/span[@class=&quot;well-buttons&quot;]/a[@class=&quot;searchSidePanel-button searchSidePanel-unminimise&quot;]/i[@class=&quot;fa fa-chevron-up&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='queriesContainer']/div/div/div/span[2]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-up</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-up</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;queriesContainer&quot;)/div[@class=&quot;searchSidePanel minimised&quot;]/div[@class=&quot;well minimised&quot;]/div[@class=&quot;header minimised&quot;]/span[@class=&quot;well-buttons&quot;]/a[@class=&quot;searchSidePanel-button searchSidePanel-unminimise&quot;]/i[@class=&quot;fa fa-chevron-up&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='queriesContainer']/div/div/div/span[2]/a[2]/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+   </webElementXpaths>
+</WebElementEntity>

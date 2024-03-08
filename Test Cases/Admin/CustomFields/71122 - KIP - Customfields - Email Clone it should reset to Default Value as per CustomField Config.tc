@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71122 - KIP - Customfields - Email Clone it should reset to Default Value as per CustomField Config</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>127785a0-c356-4b38-8017-36c738d03178</testCaseGuid>
+</TestCaseEntity>

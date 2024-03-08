@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "B0D4DC621FF11194544AB9E939878A17",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateProjectSnapshot",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

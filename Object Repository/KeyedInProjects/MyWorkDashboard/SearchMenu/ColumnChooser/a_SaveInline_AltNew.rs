@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SaveInline_AltNew</name>
+   <tag></tag>
+   <elementGuidId>a2c65788-efdf-4167-8591-d1a647d55395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.tooltip-primary.btn.btn-default.shiny.btn-xs.partial</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@onclick = 'javascript: editableView_save_click(this,false, editableView_save_refresh)']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='javascript: editableView_save_click(this,false, editableView_save_refresh_projects)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-floppy-o green</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/KIP4/Widgets/Projects/Save?ID=6c0683eb-0c9f-43ef-90d5-0a1bbae4064c&amp;Code=PRJ_AUT00000034&amp;Key=0&amp;DashboardCode=SEARCH&amp;DashboardType=-1&amp;PageLayout=0&amp;ActionView=0&amp;Workflow=0&amp;SearchMode=0&amp;PermissionType=NotSpecified&amp;Site=KIPAutomationWorkflowEnabledChrome</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popup-refresh-parent</name>
+      <type>Main</type>
+      <value>.panel-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: editableView_save_click(this,false, editableView_save_refresh)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-container</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6c0683eb-0c9f-43ef-90d5-0a1bbae4064c&quot;)/div[@class=&quot;editableTable tableDiv hasOperations  edit&quot;]/table[@class=&quot;table tableRows table-condensed table-bordered table-hover&quot;]/tbody[1]/tr[4]/td[@class=&quot;editableTableButtons&quot;]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;tooltip-primary btn btn-default shiny btn-xs partial&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='javascript: editableView_save_click(this,false, editableView_save_refresh_projects)']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6c0683eb-0c9f-43ef-90d5-0a1bbae4064c']/div[5]/table/tbody/tr[4]/td/div/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[24]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[21]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project'])[5]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/div/a</value>
+   </webElementXpaths>
+</WebElementEntity>

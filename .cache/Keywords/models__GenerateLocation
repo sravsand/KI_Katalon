@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0CE4CAF01C203B89F6F1CB7B3B45A032",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateLocation",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

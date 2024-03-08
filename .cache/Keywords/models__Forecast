@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "48956C0EF2FEA0260D175AAA01CAF4CB",
+  "keywordClasses": [
+    {
+      "name": "models.Forecast",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

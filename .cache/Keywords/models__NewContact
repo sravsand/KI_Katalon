@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4BE846BEE9C83F5E657E7E41B59C0FEF",
+  "keywordClasses": [
+    {
+      "name": "models.NewContact",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

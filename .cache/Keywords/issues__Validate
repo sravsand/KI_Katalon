@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "22C19723CC9A0C4C326A0A4C3FFE0B7C",
+  "keywordClasses": [
+    {
+      "name": "issues.Validate",
+      "keywordMethods": [
+        {
+          "name": "issueDetails",
+          "parameters": [
+            {
+              "name": "issue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Issue",
+                "unresolvedClassName": "Issue",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

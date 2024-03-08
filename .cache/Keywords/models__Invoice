@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0F1EB64E3840D51357AA829140A2FABC",
+  "keywordClasses": [
+    {
+      "name": "models.Invoice",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

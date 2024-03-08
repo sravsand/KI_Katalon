@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_IncludeTimesheets</name>
+   <tag></tag>
+   <elementGuidId>74e34b62-2497-4acd-8f6b-7b29f9241f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field[4]/formly-checkbox/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;form-group ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox col-sm-12 margin-left-5 margin-top-20&quot;]/label[1]/span[@class=&quot;text&quot;][count(. | //*[(text() = ' Include Timesheets ' or . = ' Include Timesheets ')]) = count(//*[(text() = ' Include Timesheets ' or . = ' Include Timesheets ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d624b8fe-a174-4d02-987d-bc097692588f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bfd783b1-7dcc-4a25-a932-653c1b945f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Include Timesheets </value>
+      <webElementGuid>94f01abb-a42d-43ee-a531-4eb8750449dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;notabs ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;form-group ng-star-inserted&quot;]/formly-checkbox[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;checkbox col-sm-12 margin-left-5 margin-top-20&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>1b59bc4d-531d-4504-afb1-1be1fc21241a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field[4]/formly-checkbox/div/label/span</value>
+      <webElementGuid>e94ae07c-e236-4cec-be9e-d064cdea114e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[3]</value>
+      <webElementGuid>59a580c0-8516-49aa-8a40-6e1cf22a11e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::span[1]</value>
+      <webElementGuid>bf5a1793-a069-4744-bc7d-baba687db09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Include Timesheets']/parent::*</value>
+      <webElementGuid>920dd0ab-d662-4232-8677-fcb09c29b565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label/span</value>
+      <webElementGuid>ca3d84eb-4742-4bf2-8add-f076f4e5aed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Include Timesheets ' or . = ' Include Timesheets ')]</value>
+      <webElementGuid>69de271a-6d70-460d-961f-da9e01ee5aa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

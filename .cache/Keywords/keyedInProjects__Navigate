@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "1D03E3E4AFA35B68363F29EBB178AE06",
+  "keywordClasses": [
+    {
+      "name": "keyedInProjects.Navigate",
+      "keywordMethods": [
+        {
+          "name": "selectSearchFilter",
+          "parameters": [
+            {
+              "name": "filterName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D3EFB11B6C74503A19ABFF583B836BE2",
+  "keywordClasses": [
+    {
+      "name": "models.ExchangeRate",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

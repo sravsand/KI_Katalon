@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "93A0100E92ACBEF36093A2B3EE3F90C1",
+  "keywordClasses": [
+    {
+      "name": "models.Address",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

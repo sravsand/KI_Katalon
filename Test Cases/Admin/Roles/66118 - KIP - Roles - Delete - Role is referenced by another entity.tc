@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66118 - KIP - Roles - Delete - Role is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c36c81c6-7ceb-434e-9a31-edc0865bcf0c</testCaseGuid>
+</TestCaseEntity>

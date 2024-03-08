@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "1FE55F27B17180199C73122DE5C39855",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateSupply",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

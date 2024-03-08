@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "6FEA2522826005A0F22C93319119A91A",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateContact",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

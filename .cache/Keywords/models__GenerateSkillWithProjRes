@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4095F00EC56A8738CCDE48CA64D4C09B",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateSkillWithProjRes",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

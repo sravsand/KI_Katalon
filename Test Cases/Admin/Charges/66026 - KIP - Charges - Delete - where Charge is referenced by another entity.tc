@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66026 - KIP - Charges - Delete - where Charge is referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b59e473-cc4f-4449-83a7-be312cedd88f</testCaseGuid>
+</TestCaseEntity>

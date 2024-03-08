@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71030 - KIP - Customfields - DatePicker Set to default value of CustomField on ADD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eaa16e9b-f1b2-48f8-ac7a-26a0a93a264d</testCaseGuid>
+</TestCaseEntity>

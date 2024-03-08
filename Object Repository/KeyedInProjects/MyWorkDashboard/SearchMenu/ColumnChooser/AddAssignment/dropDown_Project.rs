@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropDown_Project</name>
+   <tag></tag>
+   <elementGuidId>7de75d71-88c8-4300-9af8-dc3f5bcfde93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-7.select2Div > #s2id_Project_Id > a.select2-choice.select2-default > span.select2-arrow > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='s2id_Project_Id']/a/span[2]/b)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DepartmentGeneral&quot;)/div[@class=&quot;form-horizontal container-fluid edit-page-tab&quot;]/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;form-group col-md-12 row&quot;]/div[@class=&quot;editPageValue fieldRequired&quot;]/div[@id=&quot;select2Wrapper&quot;]/div[@class=&quot;col-sm-7 select2Div&quot;]/div[@id=&quot;s2id_Project_Id&quot;]/a[@class=&quot;select2-choice select2-default&quot;]/span[@class=&quot;select2-arrow&quot;]/b[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='s2id_Project_Id']/a/span[2]/b)[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a/span[2]/b</value>
+   </webElementXpaths>
+</WebElementEntity>

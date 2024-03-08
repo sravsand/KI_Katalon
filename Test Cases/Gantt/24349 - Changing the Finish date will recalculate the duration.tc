@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>difference between the Start and Finish dates</description>
+   <name>24349 - Changing the Finish date will recalculate the duration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdaa29da-7ca7-46fc-9d73-f109ca742550</testCaseGuid>
+</TestCaseEntity>

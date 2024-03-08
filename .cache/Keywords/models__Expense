@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7742A87D13C246A77B70D05FFE8F629F",
+  "keywordClasses": [
+    {
+      "name": "models.Expense",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

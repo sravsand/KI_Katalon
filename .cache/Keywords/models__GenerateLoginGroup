@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "417B3C4437CDA44F3A874C1C3E9CC385",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateLoginGroup",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

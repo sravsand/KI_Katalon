@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "48C12F1D84377A259C6D20B808E66842",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateClient",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

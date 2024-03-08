@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DC78D866A42B68AF48574A935CF829A2",
+  "keywordClasses": [
+    {
+      "name": "models.Skill",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

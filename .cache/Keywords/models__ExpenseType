@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "15F5F913B44A2D9B9B438A1632E43F6C",
+  "keywordClasses": [
+    {
+      "name": "models.ExpenseType",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

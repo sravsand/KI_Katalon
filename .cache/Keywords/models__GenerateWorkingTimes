@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F44E9ED88DDD9FDC16D07F45E0BD3C35",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateWorkingTimes",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

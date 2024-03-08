@@ -1,0 +1,46 @@
+package models
+
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
+import com.kms.katalon.core.annotation.Keyword
+import com.kms.katalon.core.checkpoint.Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.testcase.TestCase
+import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testobject.TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+import internal.GlobalVariable
+import models.Cost
+
+public class GenerateCost {
+	static def createCostDD(def newCost, def row){
+		Cost cost = new Cost()
+
+		cost.name = newCost.getValue("name", row)
+		cost.code = newCost.getValue("code", row)
+		cost.rate = newCost.getValue("rate", row)
+		cost.appliesTo = newCost.getValue("appliesTo", row)
+
+		return cost
+	}
+
+
+	static def createCost(String[] newCost){
+		Cost cost = new Cost()
+
+		cost.name = newCost[0]
+		cost.code = newCost[1]
+		cost.rate = newCost[2]
+		cost.appliesTo = newCost[3]
+		cost.currency = newCost[4]
+
+		return cost
+	}
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66131 - KIP - Cost Centre - Delete - referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da568452-20cd-4257-bf11-593af99f5940</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_LineManager</name>
+   <tag></tag>
+   <elementGuidId>77a16afa-7296-487f-ac6b-48ace83a3ca7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[14]/formly-ng-select/div/div/label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[(text() = 'Line Manager ' or . = 'Line Manager ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ng-tns-c174-11.angular-label.control-label.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bf893daa-ea3a-4ef2-b92a-26e6ee9e7b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c174-11 angular-label control-label ng-star-inserted</value>
+      <webElementGuid>57d377b5-19f6-43a9-a02c-6f10008f6ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>general.lineManager</value>
+      <webElementGuid>ca6682cf-7276-484f-950d-6b1fd2d541eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Line Manager </value>
+      <webElementGuid>90b70542-b4ac-4379-960b-060c76a5051c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-container&quot;)/div[@class=&quot;addscreen ng-star-inserted&quot;]/formly-form[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tabset[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tabset[1]/div[@class=&quot;content&quot;]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-field-tab[@class=&quot;ng-star-inserted&quot;]/formly-tabs-tab[1]/formly-field[@class=&quot;ng-star-inserted&quot;]/formly-ng-select[@class=&quot;ng-tns-c174-11 ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c174-11&quot;]/div[@class=&quot;ng-tns-c174-11 col-sm-6 padding-left-15 ng-star-inserted&quot;]/label[@class=&quot;ng-tns-c174-11 angular-label control-label ng-star-inserted&quot;]</value>
+      <webElementGuid>4db0eac6-aae2-4bd5-88ca-d76d49854ed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-container']/div/formly-form/formly-field/formly-field-tabset/formly-tabs-tabset/div/formly-field/formly-field-tab/formly-tabs-tab/formly-field[14]/formly-ng-select/div/div/label</value>
+      <webElementGuid>f440d358-db1c-4f39-b67e-b2fbd8df440b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEFAULT'])[11]/following::label[1]</value>
+      <webElementGuid>9e2d7200-5e13-40bf-bf15-b8800fe60388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::label[1]</value>
+      <webElementGuid>df1c9ed1-aa7a-459f-9c07-9d4520df377f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/preceding::label[1]</value>
+      <webElementGuid>8574329f-8caf-4902-bfc2-4d44b3630739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//formly-field[14]/formly-ng-select/div/div/label</value>
+      <webElementGuid>c04ba1d5-a29d-4073-828f-c42bc420117c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

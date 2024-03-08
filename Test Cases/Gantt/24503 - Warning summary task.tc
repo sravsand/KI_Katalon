@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Warning displayed for a task with assignments that is about to become a summary task</description>
+   <name>24503 - Warning summary task</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f747bf5f-7889-413c-bab6-dbd26c1bc09b</testCaseGuid>
+</TestCaseEntity>

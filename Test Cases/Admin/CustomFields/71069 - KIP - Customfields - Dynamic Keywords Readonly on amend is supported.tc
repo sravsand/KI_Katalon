@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71069 - KIP - Customfields - Dynamic Keywords Readonly on amend is supported</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2fe88843-e03c-440a-b941-a9e895645d4f</testCaseGuid>
+</TestCaseEntity>

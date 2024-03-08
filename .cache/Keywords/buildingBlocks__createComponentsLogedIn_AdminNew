@@ -1,0 +1,1447 @@
+{
+  "keywordFileContentHash": "BC32C50166EA7FB6ABA24C8FB74EB14D",
+  "keywordClasses": [
+    {
+      "name": "buildingBlocks.createComponentsLogedIn_AdminNew",
+      "keywordMethods": [
+        {
+          "name": "costCentreWithExistingCustomField",
+          "parameters": [
+            {
+              "name": "costCentre",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.CostCentre",
+                "unresolvedClassName": "CostCentre",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "tabName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "CustVal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "costCentreWithExistingCustomFieldTab2",
+          "parameters": [
+            {
+              "name": "costCentre",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.CostCentre",
+                "unresolvedClassName": "CostCentre",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "tabName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "CustVal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "customTaskField",
+          "parameters": [
+            {
+              "name": "taskName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addNewViewAndWidget_MyProjects",
+          "parameters": [
+            {
+              "name": "widgetViewName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "widget",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "widgetFilter",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitTimesheet",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitTimesheetWithCharge_SpecificUser",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "Charge",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "login",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Login",
+                "unresolvedClassName": "Login",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitTimesheet_SpecificUser",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitTimesheet_SpecificUserNoCharge",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "saveTimesheet_SpecificUser",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitPreviousTimesheet",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "backCnt",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitPreviousTimesheet_SpecificUser",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "backCnt",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "saveTimesheet",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitOldTimesheetAndApprove",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "weekRemoved",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "weekCommence",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "submitOldTimesheetAndApprove_SpecificUser",
+          "parameters": [
+            {
+              "name": "timesheet",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Timesheet",
+                "unresolvedClassName": "Timesheet",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "weekRemoved",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "weekCommence",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createExpense",
+          "parameters": [
+            {
+              "name": "expense",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Expense",
+                "unresolvedClassName": "Expense",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createExpenseWithCurrency",
+          "parameters": [
+            {
+              "name": "expense",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ExpenseWithCurrency",
+                "unresolvedClassName": "ExpenseWithCurrency",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createMultiExpense",
+          "parameters": [
+            {
+              "name": "expense",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Expense",
+                "unresolvedClassName": "Expense",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "count",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createExpenseType",
+          "parameters": [
+            {
+              "name": "expenseType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ExpenseType",
+                "unresolvedClassName": "ExpenseType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createMitigationPlanItemType",
+          "parameters": [
+            {
+              "name": "mitigationPlanItemType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.MitigationPlanItemType",
+                "unresolvedClassName": "MitigationPlanItemType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createMitigationPlanItemTypeDefault",
+          "parameters": [
+            {
+              "name": "mitigationPlanItemType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.MitigationPlanItemType",
+                "unresolvedClassName": "MitigationPlanItemType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createExpenseTypeWithNominalCode",
+          "parameters": [
+            {
+              "name": "expenseType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ExpenseType",
+                "unresolvedClassName": "ExpenseType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "nominal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createActionType",
+          "parameters": [
+            {
+              "name": "actionType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ActionType",
+                "unresolvedClassName": "ActionType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createCategory",
+          "parameters": [
+            {
+              "name": "category",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Category",
+                "unresolvedClassName": "Category",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createCategoryDefault",
+          "parameters": [
+            {
+              "name": "category",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Category",
+                "unresolvedClassName": "Category",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createContract",
+          "parameters": [
+            {
+              "name": "contract",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Contract",
+                "unresolvedClassName": "Contract",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createForecast",
+          "parameters": [
+            {
+              "name": "forecast",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Forecast",
+                "unresolvedClassName": "Forecast",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createForecastAndApprove",
+          "parameters": [
+            {
+              "name": "forecast",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Forecast",
+                "unresolvedClassName": "Forecast",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createRisk",
+          "parameters": [
+            {
+              "name": "risk",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Risk",
+                "unresolvedClassName": "Risk",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createIssue",
+          "parameters": [
+            {
+              "name": "issue",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Issue",
+                "unresolvedClassName": "Issue",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createActionView",
+          "parameters": [
+            {
+              "name": "actionView",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ActionView",
+                "unresolvedClassName": "ActionView",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createActivity",
+          "parameters": [
+            {
+              "name": "activity",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Activity",
+                "unresolvedClassName": "Activity",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createBillingPriceList",
+          "parameters": [
+            {
+              "name": "billingPriceList",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.BillingPriceList",
+                "unresolvedClassName": "BillingPriceList",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createBenefitType",
+          "parameters": [
+            {
+              "name": "benefitType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.BenefitType",
+                "unresolvedClassName": "BenefitType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createBenefitTypeInactive",
+          "parameters": [
+            {
+              "name": "benefitType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.BenefitType",
+                "unresolvedClassName": "BenefitType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createClientGroup",
+          "parameters": [
+            {
+              "name": "clientGroup",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.ClientGroup",
+                "unresolvedClassName": "ClientGroup",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createClient",
+          "parameters": [
+            {
+              "name": "client",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Client",
+                "unresolvedClassName": "Client",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createClientWithNotes",
+          "parameters": [
+            {
+              "name": "client",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Client",
+                "unresolvedClassName": "Client",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "notes",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Notes",
+                "unresolvedClassName": "Notes",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createClientWithClientGroup",
+          "parameters": [
+            {
+              "name": "client",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Client",
+                "unresolvedClassName": "Client",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "clientGroup",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createClientKIP4",
+          "parameters": [
+            {
+              "name": "client",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Customer",
+                "unresolvedClassName": "Customer",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createContact",
+          "parameters": [
+            {
+              "name": "contact",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.NewContact",
+                "unresolvedClassName": "NewContact",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createContactWithNotes",
+          "parameters": [
+            {
+              "name": "contact",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.NewContact",
+                "unresolvedClassName": "NewContact",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "notes",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Notes",
+                "unresolvedClassName": "Notes",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addContactToClient",
+          "parameters": [
+            {
+              "name": "contact",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Contact",
+                "unresolvedClassName": "Contact",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "client",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Client",
+                "unresolvedClassName": "Client",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createDeliverableTypeUnclicked",
+          "parameters": [
+            {
+              "name": "deliverableType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.DeliverableType",
+                "unresolvedClassName": "DeliverableType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createDeliverableType",
+          "parameters": [
+            {
+              "name": "deliverableType",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.DeliverableType",
+                "unresolvedClassName": "DeliverableType",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createPost",
+          "parameters": [
+            {
+              "name": "deliverableName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "postText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "userName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createLocation",
+          "parameters": [
+            {
+              "name": "location",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Location",
+                "unresolvedClassName": "Location",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createProject",
+          "parameters": [
+            {
+              "name": "project",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Project",
+                "unresolvedClassName": "Project",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createProjectCopyTasks",
+          "parameters": [
+            {
+              "name": "project",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Project",
+                "unresolvedClassName": "Project",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "createEmptyProject",
+          "parameters": [
+            {
+              "name": "project",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Project",
+                "unresolvedClassName": "Project",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addSkillsToResource",
+          "parameters": [
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "skillCode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addSecurityGroupToResource",
+          "parameters": [
+            {
+              "name": "resource",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Resource",
+                "unresolvedClassName": "Resource",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "securityCode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "addSecurityGroupToLogin",
+          "parameters": [
+            {
+              "name": "login",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "models.Login",
+                "unresolvedClassName": "Login",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "securityCode",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "editControlledNotesInLoginProfile",
+          "parameters": [
+            {
+              "name": "loginName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "edt",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "readOnly",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "restore",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

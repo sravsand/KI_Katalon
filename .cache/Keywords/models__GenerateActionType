@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "061B1DF125FF768DE7DB23AC202B3C09",
+  "keywordClasses": [
+    {
+      "name": "models.GenerateActionType",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71031 - KIP - Customfields - DatePicker Should be set to current value on Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae9770a-7745-45bc-a773-ce6fb097e363</testCaseGuid>
+</TestCaseEntity>

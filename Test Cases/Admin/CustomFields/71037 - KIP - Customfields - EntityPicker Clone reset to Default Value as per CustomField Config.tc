@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71037 - KIP - Customfields - EntityPicker Clone reset to Default Value as per CustomField Config</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>952ac13c-a068-46ce-b219-3f21765023ca</testCaseGuid>
+</TestCaseEntity>

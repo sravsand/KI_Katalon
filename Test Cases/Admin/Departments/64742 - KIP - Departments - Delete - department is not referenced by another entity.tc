@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64742 - KIP - Departments - Delete - department is not referenced by another entity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f31ee05-df06-49a5-b23a-295fb1c4d34e</testCaseGuid>
+</TestCaseEntity>
