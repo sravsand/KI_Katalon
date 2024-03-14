@@ -4,9 +4,11 @@
    <name>KeyedInProjects</name>
    <tag></tag>
    <UUID>3d9d8f9b-24a1-454b-bf30-33f26185a7e6</UUID>
+   <createdVersion>9.3.1</createdVersion>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Katalon Studio\KeyedInProjects\KeyedInProjects.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Yash Patel\git\KI_Katalon\KeyedInProjects.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

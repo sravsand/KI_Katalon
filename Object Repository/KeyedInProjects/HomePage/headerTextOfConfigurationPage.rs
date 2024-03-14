@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>headerTextOfConfigurationPage</name>
+   <tag></tag>
+   <elementGuidId>f90ee3c3-5a9d-48d5-8d1a-a648cb154b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modal-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>#modal-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
